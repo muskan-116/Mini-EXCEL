@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\THIRD SEMESTER\DSA\PROJECT DSA\ExcelProject\Header.h(873,51): warning C4018: '<': signed/unsigned mismatch
+D:\THIRD SEMESTER\DSA\PROJECT DSA\ExcelProject\Header.h(862): message : while compiling class template member function 'void MiniEXCEL<int>::Paste(const std::vector<int,std::allocator<int>> &,int,int)'
+D:\THIRD SEMESTER\DSA\PROJECT DSA\ExcelProject\main.cpp(189): message : see reference to function template instantiation 'void MiniEXCEL<int>::Paste(const std::vector<int,std::allocator<int>> &,int,int)' being compiled
+D:\THIRD SEMESTER\DSA\PROJECT DSA\ExcelProject\main.cpp(79): message : see reference to class template instantiation 'MiniEXCEL<int>' being compiled
+D:\THIRD SEMESTER\DSA\PROJECT DSA\ExcelProject\Header.h(876,52): warning C4018: '<': signed/unsigned mismatch
+D:\THIRD SEMESTER\DSA\PROJECT DSA\ExcelProject\Header.h(885,20): warning C4018: '<': signed/unsigned mismatch
+  ExcelProject.vcxproj -> D:\THIRD SEMESTER\DSA\PROJECT DSA\ExcelProject\Debug\ExcelProject.exe
